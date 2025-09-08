@@ -21,7 +21,7 @@ This repository contains a Vite + React + TypeScript single-page app for a Pytho
 1. Clone the repo:
 ```bash
 git clone https://github.com/dumpsterdj/code-with-dhruv
-cd <repo-name>
+cd code-with-dhruv
 ````
 
 2. Install:
